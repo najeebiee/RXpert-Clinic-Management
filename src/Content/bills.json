@@ -1,0 +1,123 @@
+{
+    "bills": [{
+            "date": "202504151200",
+            "patientName": "John Doe",
+            "nurseName": "nurse",
+            "amount": 100.00,
+            "patientId": "1",
+            "billId": "1",
+            "nurseId": "2",
+            "services": "Consultation",
+            "status": "unpaid"
+        }, {
+            "date": "202504161200",
+            "patientName": "Justin Time",
+            "nurseName": "nurse3",
+            "amount": 200.00,
+            "patientId": "6",
+            "billId": "2",
+            "nurseId": "4",
+            "services": "Miscellaneous",
+            "status": "unpaid"
+        }, {
+            "date": "202504171448",
+            "patientName": "Cookie Monster",
+            "nurseName": "nurse4",
+            "amount": 800.00,
+            "patientId": "5",
+            "billId": "3",
+            "nurseId": "5",
+            "services": "Miscellaneous",
+            "status": "unpaid"
+        }, {
+            "date": "202504171502",
+            "patientName": "John Doe",
+            "nurseName": "nurse",
+            "amount": 500.00,
+            "patientId": "1",
+            "billId": "4",
+            "nurseId": "2",
+            "services": "Diagnostic Tests",
+            "status": "unpaid"
+        }, {
+            "date": "202504171503",
+            "patientName": "Cookie Monster",
+            "nurseName": "nurse",
+            "amount": 900.00,
+            "patientId": "5",
+            "billId": "5",
+            "nurseId": "2",
+            "services": "Miscellaneous",
+            "status": "unpaid"
+        }, {
+            "date": "202504181539",
+            "patientName": "Hello World",
+            "nurseName": "nurse3",
+            "amount": 500.00,
+            "patientId": "3",
+            "billId": "6",
+            "nurseId": "4",
+            "services": "Diagnostic Tests",
+            "status": "unpaid"
+        }, {
+            "date": "202504181541",
+            "patientName": "John Doe",
+            "nurseName": "nurse",
+            "amount": 500.00,
+            "patientId": "1",
+            "billId": "7",
+            "nurseId": "2",
+            "services": "Diagnostic Tests",
+            "status": "unpaid"
+        }, {
+            "date": "202504200145",
+            "patientName": "Ampi Cillin",
+            "nurseName": "nurse",
+            "amount": 250.00,
+            "patientId": "4",
+            "billId": "8",
+            "nurseId": "2",
+            "services": "Miscellaneous",
+            "status": "unpaid"
+        }, {
+            "date": "202504200204",
+            "patientName": "Hello World",
+            "nurseName": "nurse",
+            "amount": 901.00,
+            "patientId": "3",
+            "billId": "9",
+            "nurseId": "2",
+            "services": "Diagnostic Tests",
+            "status": "unpaid"
+        }, {
+            "date": "202504200215",
+            "patientName": "Cookie Monster",
+            "nurseName": "nurse4",
+            "amount": 500.00,
+            "patientId": "5",
+            "billId": "10",
+            "nurseId": "5",
+            "services": "Diagnostic Tests",
+            "status": "unpaid"
+        }, {
+            "date": "202504200230",
+            "patientName": "Ampi Cillin",
+            "nurseName": "nurse",
+            "amount": 5200.00,
+            "patientId": "4",
+            "billId": "11",
+            "nurseId": "2",
+            "services": "Miscellaneous",
+            "status": "unpaid"
+        }, {
+            "date": "202504200237",
+            "patientName": "Cookie Monster",
+            "nurseName": "nurse4",
+            "amount": 6300.00,
+            "patientId": "5",
+            "billId": "12",
+            "nurseId": "5",
+            "services": "Diagnostic Tests",
+            "status": "unpaid"
+        }]
+}

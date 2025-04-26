@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2",
+    "username": "nurse",
+    "password": "12",
+    "role": "nurse"
+  },
+  {
+    "id": "1",
+    "username": "staff",
+    "password": "5",
+    "role": "staff"
+  },
+  {
+    "id": "3",
+    "username": "doc",
+    "password": "34",
+    "role": "doctor"
+  },
+  {
+    "id": "4",
+    "username": "nurseCookie",
+    "password": "123",
+    "role": "nurse"
+  },
+  {
+    "id": "5",
+    "username": "nurse4",
+    "password": "123456",
+    "role": "nurse"
+  }
+]
